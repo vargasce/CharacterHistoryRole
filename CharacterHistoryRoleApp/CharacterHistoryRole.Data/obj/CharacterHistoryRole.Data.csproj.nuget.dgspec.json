@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Data\\CharacterHistoryRole.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHisotryRole.EntityFramework\\CharacterHisotryRole.EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHisotryRole.EntityFramework\\CharacterHisotryRole.EntityFramework.csproj",
+        "projectName": "CharacterHisotryRole.EntityFramework",
+        "projectPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHisotryRole.EntityFramework\\CharacterHisotryRole.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHisotryRole.EntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain.Core\\CharacterHistoryRole.Domain.Core.csproj": {
+                "projectPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain.Core\\CharacterHistoryRole.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Data\\CharacterHistoryRole.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Data\\CharacterHistoryRole.Data.csproj",
+        "projectName": "CharacterHistoryRole.Data",
+        "projectPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Data\\CharacterHistoryRole.Data.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHisotryRole.EntityFramework\\CharacterHisotryRole.EntityFramework.csproj": {
+                "projectPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHisotryRole.EntityFramework\\CharacterHisotryRole.EntityFramework.csproj"
+              },
+              "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain\\CharacterHistoryRole.Domain.csproj": {
+                "projectPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain\\CharacterHistoryRole.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain.Core\\CharacterHistoryRole.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain.Core\\CharacterHistoryRole.Domain.Core.csproj",
+        "projectName": "CharacterHistoryRole.Domain.Core",
+        "projectPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain.Core\\CharacterHistoryRole.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain\\CharacterHistoryRole.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain\\CharacterHistoryRole.Domain.csproj",
+        "projectName": "CharacterHistoryRole.Domain",
+        "projectPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain\\CharacterHistoryRole.Domain.csproj",
+        "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain.Core\\CharacterHistoryRole.Domain.Core.csproj": {
+                "projectPath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Domain.Core\\CharacterHistoryRole.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

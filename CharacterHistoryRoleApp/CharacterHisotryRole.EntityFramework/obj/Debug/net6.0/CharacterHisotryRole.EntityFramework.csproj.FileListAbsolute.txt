@@ -1,0 +1,15 @@
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\CharacterHisotryRole.EntityFramework.csproj.AssemblyReference.cache
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\CharacterHisotryRole.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\CharacterHisotryRole.EntityFramework.AssemblyInfoInputs.cache
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\CharacterHisotryRole.EntityFramework.AssemblyInfo.cs
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\CharacterHisotryRole.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\bin\Debug\net6.0\CharacterHisotryRole.EntityFramework.deps.json
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\bin\Debug\net6.0\CharacterHisotryRole.EntityFramework.dll
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\bin\Debug\net6.0\CharacterHisotryRole.EntityFramework.pdb
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\bin\Debug\net6.0\CharacterHistoryRole.Domain.Core.dll
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\bin\Debug\net6.0\CharacterHistoryRole.Domain.Core.pdb
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\CharacterHisotryRole.EntityFramework.csproj.CopyComplete
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\CharacterHisotryRole.EntityFramework.dll
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\refint\CharacterHisotryRole.EntityFramework.dll
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\CharacterHisotryRole.EntityFramework.pdb
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHisotryRole.EntityFramework\obj\Debug\net6.0\ref\CharacterHisotryRole.EntityFramework.dll

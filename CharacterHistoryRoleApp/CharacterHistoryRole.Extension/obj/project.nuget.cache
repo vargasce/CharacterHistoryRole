@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WyzdTWKFRDAYm1FQ3K0pjZHP5LJO5QRAPDIEuYvW+WjHK/XOknVzuchuf5MFw6Wsk4/ILnZo77E5E3GrrZVrg==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\repos\\CharacterHistoryRole\\CharacterHistoryRoleApp\\CharacterHistoryRole.Extension\\CharacterHistoryRole.Extension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

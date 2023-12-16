@@ -1,0 +1,12 @@
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\bin\Debug\net6.0\CharacterHistoryRole.Extension.deps.json
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\bin\Debug\net6.0\CharacterHistoryRole.Extension.dll
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\bin\Debug\net6.0\CharacterHistoryRole.Extension.pdb
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\CharacterHistoryRole.Extension.csproj.AssemblyReference.cache
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\CharacterHistoryRole.Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\CharacterHistoryRole.Extension.AssemblyInfoInputs.cache
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\CharacterHistoryRole.Extension.AssemblyInfo.cs
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\CharacterHistoryRole.Extension.csproj.CoreCompileInputs.cache
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\CharacterHistoryRole.Extension.dll
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\refint\CharacterHistoryRole.Extension.dll
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\CharacterHistoryRole.Extension.pdb
+D:\Source\repos\CharacterHistoryRole\CharacterHistoryRoleApp\CharacterHistoryRole.Extension\obj\Debug\net6.0\ref\CharacterHistoryRole.Extension.dll
